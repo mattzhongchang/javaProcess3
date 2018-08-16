@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"   
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">  
+<mapper namespace="com.matt.business.dao.SubscriberDao">  
+    
+    <resultMap type="com.matt.business.model.Subscriber" id="subsMap">
+        <result column="subsid" property="subsid" ></result>
+        <result column="custid" property="custid"></result>
+        <result column="accountid" property="accountid"></result>
+        <result column="substype" property="subsType"></result>
+        <result column="active" property="active"></result>
+        <result column="status" property="status"></result>
+        <result column="servnumber" property="servNumber"></result>
+    </resultMap>
+    
+    <insert id="insertSubscriber" parameterType="com.matt.business.model.Subscriber" >
+        <![CDATA[
+        insert into subscriber(region,subsid,custid,accountid,substype,active,status,createdate,servnumber) 
+        values(270, #{subsid}, #{custid}, #{accountid}, #{subsType}, 1, 'US10', now(), '15527858863')
+        ]]>
+    </insert>
+
+    <select id="getUser" parameterType="com.matt.business.model.User" resultType="com.matt.business.model.User">  
+        SELECT * FROM user WHERE username=#{username} AND password=#{password}  
+    </select>  
+    <insert id="addUser" parameterType="com.matt.business.model.User" flushCache="true">  
+        INSERT INTO user (id,username,password) VALUES (#{id},#{username},#{password})  
+    </insert>  
+    <update id="updateUser" parameterType="com.matt.business.model.User">  
+        UPDATE user SET password=#{password} WHERE id=#{id}  
+    </update>  
+    <delete id="deleteUser" parameterType="int">  
+        DELETE FROM user WHERE id=#{id}  
+    </delete>  
+</mapper>

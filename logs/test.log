@@ -1,0 +1,208 @@
+[DEBUG] 2018-06-10 11:08:31,077(1361) --> [main] test.TestUser.main(TestUser.java:27): Spring loaded  
+[DEBUG] 2018-06-10 11:08:31,109(1393) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:08:31,109(1393) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:08:31,140(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:08:31,140(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:08:31,140(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:08:31,140(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:08:31,140(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:08:31,140(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:08:31,140(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:08:31,140(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:08:31,140(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:08:31,140(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:09:05,347(1360) --> [main] test.TestUser.main(TestUser.java:27): Spring loaded  
+[DEBUG] 2018-06-10 11:09:05,395(1408) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:09:05,395(1408) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:09:05,411(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:09:05,411(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:09:05,411(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:09:05,411(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:09:05,426(1439) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:09:05,426(1439) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:09:05,426(1439) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:09:05,426(1439) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:09:05,426(1439) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:09:05,426(1439) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:28:47,380(1396) --> [main] test.TestUser.main(TestUser.java:27): Spring loaded  
+[DEBUG] 2018-06-10 11:28:47,427(1443) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:28:47,427(1443) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:28:47,443(1459) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:28:47,443(1459) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:28:47,443(1459) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:28:47,443(1459) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:28:47,459(1475) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:28:47,459(1475) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:28:47,459(1475) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:28:47,459(1475) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:28:47,459(1475) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:28:47,459(1475) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:34:55,386(1390) --> [main] test.TestUser.main(TestUser.java:27): Spring loaded  
+[DEBUG] 2018-06-10 11:34:55,435(1439) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:34:55,435(1439) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:34:55,442(1446) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:34:55,442(1446) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:34:55,458(1462) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:34:55,458(1462) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:34:55,458(1462) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:34:55,458(1462) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:34:55,458(1462) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:34:55,458(1462) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:34:55,458(1462) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:34:55,458(1462) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:34:55,489(1493) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:34:55,489(1493) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:34:55,489(1493) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:34:55,489(1493) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:36:16,033(1362) --> [main] test.TestUser.main(TestUser.java:27): Spring loaded  
+[DEBUG] 2018-06-10 11:36:16,080(1409) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:36:16,080(1409) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:36:16,097(1426) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:36:16,097(1426) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:36:16,097(1426) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:36:16,097(1426) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:36:16,097(1426) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:36:16,097(1426) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:36:16,097(1426) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:36:16,097(1426) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:36:16,112(1441) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:36:16,112(1441) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:36:16,112(1441) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:36:16,112(1441) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:36:16,112(1441) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:36:16,112(1441) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:36:59,754(1401) --> [main] test.TestUser.main(TestUser.java:27): Spring loaded  
+[DEBUG] 2018-06-10 11:36:59,801(1448) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:36:59,801(1448) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:36:59,817(1464) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:36:59,817(1464) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:36:59,817(1464) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:36:59,817(1464) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:36:59,833(1480) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:36:59,833(1480) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:36:59,833(1480) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:36:59,833(1480) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:36:59,833(1480) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:36:59,833(1480) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:36:59,848(1495) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:36:59,848(1495) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:36:59,848(1495) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:36:59,848(1495) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:38:55,930(1386) --> [main] test.TestUser.main(TestUser.java:27): Spring loaded  
+[DEBUG] 2018-06-10 11:38:55,978(1434) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:38:55,978(1434) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:38:55,993(1449) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:38:55,993(1449) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:38:55,993(1449) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:38:55,993(1449) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:38:55,993(1449) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:38:55,993(1449) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:38:56,009(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:38:56,009(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:38:56,009(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:38:56,009(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:38:56,009(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:38:56,009(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:38:56,009(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:38:56,009(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:38:56,025(1481) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 11:38:56,025(1481) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 11:41:00,150(1434) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:41:00,165(1449) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:41:00,165(1449) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:41:00,181(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:41:00,181(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:41:00,181(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:41:00,181(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:41:00,181(1465) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:41:00,197(1481) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 11:42:48,025(1433) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:42:48,041(1449) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:42:48,041(1449) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:42:48,056(1464) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:42:48,056(1464) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:42:48,056(1464) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:42:48,056(1464) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:42:48,056(1464) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:42:48,072(1480) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 11:44:19,606(1409) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:44:19,621(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:44:19,621(1424) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:44:19,637(1440) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:44:19,637(1440) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:44:19,637(1440) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:44:19,637(1440) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:44:19,637(1440) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:44:19,653(1456) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 11:44:49,396(1413) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:44:49,411(1428) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:44:49,411(1428) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:44:49,427(1444) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:44:49,427(1444) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:44:49,427(1444) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:44:49,443(1460) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:44:49,443(1460) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:44:49,443(1460) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 11:49:56,553(1432) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:49:56,569(1448) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:49:56,569(1448) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:49:56,584(1463) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:49:56,584(1463) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:49:56,584(1463) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:49:56,600(1479) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:49:56,600(1479) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:49:56,615(1494) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 11:51:05,222(1480) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:51:05,244(1502) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:51:05,245(1503) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:51:05,250(1508) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:51:05,250(1508) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:51:05,250(1508) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:51:05,258(1516) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:51:05,258(1516) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:51:05,260(1518) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 11:51:17,371(1469) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:51:17,402(1500) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:51:17,402(1500) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:51:17,402(1500) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:51:17,402(1500) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:51:17,402(1500) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:51:17,418(1516) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:51:17,418(1516) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:51:17,433(1531) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 11:51:46,566(1440) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:51:46,582(1456) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:51:46,582(1456) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:51:46,582(1456) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:51:46,582(1456) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:51:46,582(1456) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:51:46,598(1472) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:51:46,598(1472) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:51:46,613(1487) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 11:53:04,753(1483) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:53:04,784(1514) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:53:04,784(1514) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:53:04,784(1514) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:53:04,784(1514) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:53:04,784(1514) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:53:04,799(1529) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:53:04,799(1529) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:53:04,815(1545) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 11:54:46,286(1472) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:54:46,301(1487) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:54:46,301(1487) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:54:46,317(1503) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 11:54:46,317(1503) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 11:54:46,317(1503) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 11:54:46,317(1503) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 11:54:46,317(1503) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 11:54:46,333(1519) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
+[DEBUG] 2018-06-10 12:45:18,454(1319) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 12:45:18,469(1334) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 12:45:18,469(1334) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 12:45:18,485(1350) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: INSERT INTO user (id,username,password) VALUES (?,?,?)   
+[DEBUG] 2018-06-10 12:45:18,485(1350) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters: 1(Integer), Jessica(String), 123(String)  
+[DEBUG] 2018-06-10 12:45:18,485(1350) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==    Updates: 1  
+[DEBUG] 2018-06-10 12:45:18,485(1350) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==>  Preparing: select * from user limit 0, 10   
+[DEBUG] 2018-06-10 12:45:18,485(1350) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): ==> Parameters:   
+[DEBUG] 2018-06-10 12:45:18,501(1366) --> [main] org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:139): <==      Total: 10  
